@@ -1,0 +1,14 @@
+C:\Users\wwlui\source\repos\ExerciciosAulas\ExerciciosAulas\bin\Debug\net10.0\ExerciciosAulas.exe
+C:\Users\wwlui\source\repos\ExerciciosAulas\ExerciciosAulas\bin\Debug\net10.0\ExerciciosAulas.deps.json
+C:\Users\wwlui\source\repos\ExerciciosAulas\ExerciciosAulas\bin\Debug\net10.0\ExerciciosAulas.runtimeconfig.json
+C:\Users\wwlui\source\repos\ExerciciosAulas\ExerciciosAulas\bin\Debug\net10.0\ExerciciosAulas.dll
+C:\Users\wwlui\source\repos\ExerciciosAulas\ExerciciosAulas\bin\Debug\net10.0\ExerciciosAulas.pdb
+C:\Users\wwlui\source\repos\ExerciciosAulas\ExerciciosAulas\obj\Debug\net10.0\ExerciciosAulas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wwlui\source\repos\ExerciciosAulas\ExerciciosAulas\obj\Debug\net10.0\ExerciciosAulas.AssemblyInfoInputs.cache
+C:\Users\wwlui\source\repos\ExerciciosAulas\ExerciciosAulas\obj\Debug\net10.0\ExerciciosAulas.AssemblyInfo.cs
+C:\Users\wwlui\source\repos\ExerciciosAulas\ExerciciosAulas\obj\Debug\net10.0\ExerciciosAulas.csproj.CoreCompileInputs.cache
+C:\Users\wwlui\source\repos\ExerciciosAulas\ExerciciosAulas\obj\Debug\net10.0\ExerciciosAulas.dll
+C:\Users\wwlui\source\repos\ExerciciosAulas\ExerciciosAulas\obj\Debug\net10.0\refint\ExerciciosAulas.dll
+C:\Users\wwlui\source\repos\ExerciciosAulas\ExerciciosAulas\obj\Debug\net10.0\ExerciciosAulas.pdb
+C:\Users\wwlui\source\repos\ExerciciosAulas\ExerciciosAulas\obj\Debug\net10.0\ExerciciosAulas.genruntimeconfig.cache
+C:\Users\wwlui\source\repos\ExerciciosAulas\ExerciciosAulas\obj\Debug\net10.0\ref\ExerciciosAulas.dll
