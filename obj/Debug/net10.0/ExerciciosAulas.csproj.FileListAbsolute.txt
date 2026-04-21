@@ -12,3 +12,4 @@ C:\Users\wwlui\source\repos\ExerciciosAulas\ExerciciosAulas\obj\Debug\net10.0\re
 C:\Users\wwlui\source\repos\ExerciciosAulas\ExerciciosAulas\obj\Debug\net10.0\ExerciciosAulas.pdb
 C:\Users\wwlui\source\repos\ExerciciosAulas\ExerciciosAulas\obj\Debug\net10.0\ExerciciosAulas.genruntimeconfig.cache
 C:\Users\wwlui\source\repos\ExerciciosAulas\ExerciciosAulas\obj\Debug\net10.0\ref\ExerciciosAulas.dll
+C:\Users\wwlui\source\repos\ExerciciosAulas\ExerciciosAulas\obj\Debug\net10.0\ExerciciosAulas.sourcelink.json
